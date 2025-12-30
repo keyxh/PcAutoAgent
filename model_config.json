@@ -2,11 +2,11 @@
   "vision_model": {
     "name": "qwen3-vl-plus",
     "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-    "apikey": "sk-dda895441d444cb3a35d4e4e99ae2f33"
+    "apikey": "sk-ddaf895dd441d444cb3a35d4e4e99ae2f33f"
   },
   "classification_model": {
     "name": "qwen-turbo",
     "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-    "apikey": "sk-dda895441d444cb3a35d4e4e99ae2f33"
+    "apikey": "sk-dda89cc5441d444cb3a35d4e4e99ae2f33"
   }
 }
