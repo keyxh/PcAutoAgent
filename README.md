@@ -14,7 +14,7 @@
 - 操作历史记录和智能坐标调整
 
 ## 使用方法
-1. 配置 `model_config.json` 文件，填入你的API密钥，只要vl都支持
+1. 配置 `model_config.json` 文件，填入你的API密钥
 2. 运行 `python gui.py` 启动图形界面
 3. 添加任务并开始执行
 
